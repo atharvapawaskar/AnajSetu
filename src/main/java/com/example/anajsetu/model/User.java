@@ -22,7 +22,7 @@ public class User {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Integer id;
 
     @Column(nullable = false)
     private String name;
@@ -39,7 +39,8 @@ public class User {
     private String role;
 
     @Column(name = "is_verified")
-    private int isVerified = 0;
+    // AFTER
+    private Integer isVerified = 0;
 
     private String address;
 
