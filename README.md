@@ -8,6 +8,9 @@ This repository is linked to a [v0](https://v0.app) project. You can continue de
 
 [Continue working on v0 →](https://v0.app/chat/projects/prj_gyhNqYRkv4X4wqlahEj4gYVH9anX)
 
+#Added project description
+This project connects ngo directly with food donors.
+
 ## Getting Started
 
 First, run the development server:
