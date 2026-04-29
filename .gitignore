@@ -1,0 +1,14 @@
+# Node/Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+
+# Java/Spring Boot
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+**/*.class
+
+# IDEs and OS Files
+.vscode/
+.idea/
+.DS_Store
