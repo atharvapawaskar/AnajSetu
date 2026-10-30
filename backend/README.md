@@ -1,1 +1,1 @@
-# AnajSetu : FoodBridge
+# AnajSetu : Food Rescue and Management System 
